@@ -1,0 +1,53 @@
+[
+    {
+      "id": 0,
+      "category": "general",
+      "level": 0,
+      "correctAlternative": 0,
+      "question": "question text?",
+      "alternatives": [
+        {
+          "index": 0,
+          "alternative": "alternative0"
+        },
+        {
+          "index": 1,
+          "alternative": "alternative1"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "category": "general",
+      "level": 0,
+      "correctAlternative": 1,
+      "question": "question text?",
+      "alternatives": [
+        {
+          "index": 0,
+          "alternative": "alternative0"
+        },
+        {
+          "index": 1,
+          "alternative": "alternative1"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "general",
+      "level": 0,
+      "correctAlternative": 1,
+      "question": "question text?",
+      "alternatives": [
+        {
+          "index": 0,
+          "alternative": "alternative0"
+        },
+        {
+          "index": 1,
+          "alternative": "alternative1"
+        }
+      ]
+    }
+  ]

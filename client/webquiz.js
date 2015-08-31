@@ -1,9 +1,14 @@
 // counter starts at 0
 Session.setDefault('counter', 0);
+Questions = new Mongo.Collection("questions");
+
 
 Template.hello.helpers({
   counter: function () {
    return Session.get('counter');
+  },
+  questions: function(){
+    return Questions.find();
   }
 });
 
